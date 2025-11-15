@@ -1,0 +1,16 @@
+# Build artifacts
+/build/
+/*.o
+/*.d
+/my_redis_server
+
+# Runtime/persistence
+dump.my_rdb
+
+# Editors / OS
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log
